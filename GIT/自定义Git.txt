@@ -1,11 +1,13 @@
-×Ô¶¨ÒåGit
-        ÔÚ°²×°GitÒ»½ÚÖÐ£¬ÎÒÃÇÒÑ¾­ÅäÖÃÁËuser.nameºÍuser.email£¬Êµ¼ÊÉÏ£¬Git»¹ÓÐºÜ¶à¿ÉÅäÖÃÏî¡£
-±ÈÈç£¬ÈÃGitÏÔÊ¾ÑÕÉ«£¬»áÈÃÃüÁîÊä³ö¿´ÆðÀ´¸üÐÑÄ¿£º
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137621280731812dec22ecc9b44f4b2ca1c680f181a5b000
+è‡ªå®šä¹‰Git
+
+        åœ¨å®‰è£…Gitä¸€èŠ‚ä¸­ï¼Œæˆ‘ä»¬å·²ç»é…ç½®äº†user.nameå’Œuser.emailï¼Œå®žé™…ä¸Šï¼ŒGitè¿˜æœ‰å¾ˆå¤šå¯é…ç½®é¡¹ã€‚
+æ¯”å¦‚ï¼Œè®©Gitæ˜¾ç¤ºé¢œè‰²ï¼Œä¼šè®©å‘½ä»¤è¾“å‡ºçœ‹èµ·æ¥æ›´é†’ç›®ï¼š
 $ git config --global color.ui true
-ÕâÑù£¬Git»áÊÊµ±µØÏÔÊ¾²»Í¬µÄÑÕÉ«£¬±ÈÈçgit statusÃüÁî£º
+è¿™æ ·ï¼ŒGitä¼šé€‚å½“åœ°æ˜¾ç¤ºä¸åŒçš„é¢œè‰²ï¼Œæ¯”å¦‚git statuså‘½ä»¤ï¼š
 
-ÎÄ¼þÃû¾Í»á±êÉÏÑÕÉ«¡£
-ÎÒÃÇÔÚºóÃæ»¹»á½éÉÜÈçºÎ¸üºÃµØÅäÖÃGit£¬ÒÔ±ãÈÃÄãµÄ¹¤×÷¸ü¸ßÐ§¡£
+æ–‡ä»¶åå°±ä¼šæ ‡ä¸Šé¢œè‰²ã€‚
+æˆ‘ä»¬åœ¨åŽé¢è¿˜ä¼šä»‹ç»å¦‚ä½•æ›´å¥½åœ°é…ç½®Gitï¼Œä»¥ä¾¿è®©ä½ çš„å·¥ä½œæ›´é«˜æ•ˆã€‚
 
-    Reads: 152125
-    
+    Reads: 153026
+æŠ“å–æ—¶é—´2017-01-11 03:27:42
